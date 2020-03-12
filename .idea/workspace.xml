@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fb9a74c-43c7-48f1-b186-1a5a9ca95ee9" name="Default Changelist" comment="" />
+    <list default="true" id="3fb9a74c-43c7-48f1-b186-1a5a9ca95ee9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chatserver/ChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chatserver/ChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chatserver/ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chatserver/META-INF/Chatserver.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chatserver/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Chatserver/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/+libs/engine-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/+libs/engine-alpha.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chatserver/+libs/engine-alpha.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/engine_alpha.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/engine_alpha.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MeinClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MeinDedizierterServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/src/package.bluej" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +31,21 @@
       <executable />
     </execution>
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="307" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z24BSo6ovdurlmH9pzyquTAdsU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,12 +53,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/+libs/engine-alpha.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/+libs/engine-alpha.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -33,6 +67,20 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dokumente\Referate etc\Chatserver\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Chatserver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584023718385</updated>
-      <workItem from="1584023720640" duration="78000" />
+      <workItem from="1584023720640" duration="3855000" />
+      <workItem from="1584027597918" duration="5008000" />
     </task>
     <servers />
   </component>
@@ -52,25 +101,88 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="504" y="150" key="#Log_Highlighting_(ideolog)" timestamp="1584027608622">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state x="504" y="150" key="#Log_Highlighting_(ideolog)/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584027608622" />
     <state x="504" y="150" key="#Project_Structure" timestamp="1584023742640">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
     <state x="504" y="150" key="#Project_Structure/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584023742640" />
-    <state x="618" y="233" key="FileChooserDialogImpl" timestamp="1584023793216">
+    <state x="717" y="201" key="#com.intellij.ide.util.MemberChooser" timestamp="1584026802303">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state x="618" y="233" key="FileChooserDialogImpl/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584023793216" />
-    <state x="392" y="66" key="SettingsEditor" timestamp="1584023798585">
+    <state x="717" y="201" key="#com.intellij.ide.util.MemberChooser/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584026802303" />
+    <state x="642" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584024679312">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state x="392" y="66" key="SettingsEditor/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584023798585" />
-    <state x="608" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1584023724818">
+    <state x="642" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584024679312" />
+    <state x="432" y="84" key="CommitChangelistDialog2" timestamp="1584032699111">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state x="608" y="315" key="com.intellij.ide.util.TipDialog/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584023724818" />
-    <state x="575" y="211" key="search.everywhere.popup" timestamp="1584023763560">
+    <state x="432" y="84" key="CommitChangelistDialog2/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032699111" />
+    <state x="618" y="233" key="FileChooserDialogImpl" timestamp="1584025205863">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state x="575" y="211" key="search.everywhere.popup/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584023763560" />
+    <state x="618" y="233" key="FileChooserDialogImpl/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584025205863" />
+    <state width="1780" height="198" key="GridCell.Tab.0.bottom" timestamp="1584032432009">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state width="1780" height="198" key="GridCell.Tab.0.bottom/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032432009" />
+    <state width="1780" height="198" key="GridCell.Tab.0.center" timestamp="1584032432008">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state width="1780" height="198" key="GridCell.Tab.0.center/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032432008" />
+    <state width="1780" height="198" key="GridCell.Tab.0.left" timestamp="1584032432008">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state width="1780" height="198" key="GridCell.Tab.0.left/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032432008" />
+    <state width="1780" height="198" key="GridCell.Tab.0.right" timestamp="1584032432009">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state width="1780" height="198" key="GridCell.Tab.0.right/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032432009" />
+    <state width="1780" height="320" key="GridCell.Tab.1.bottom" timestamp="1584032372060">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state width="1780" height="320" key="GridCell.Tab.1.bottom/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032372060" />
+    <state width="1780" height="320" key="GridCell.Tab.1.center" timestamp="1584032372059">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state width="1780" height="320" key="GridCell.Tab.1.center/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032372059" />
+    <state width="1780" height="320" key="GridCell.Tab.1.left" timestamp="1584032372059">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state width="1780" height="320" key="GridCell.Tab.1.left/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032372059" />
+    <state width="1780" height="320" key="GridCell.Tab.1.right" timestamp="1584032372060">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state width="1780" height="320" key="GridCell.Tab.1.right/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032372060" />
+    <state x="697" y="202" key="RollbackChangesDialog" timestamp="1584027377776">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state x="697" y="202" key="RollbackChangesDialog/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584027377776" />
+    <state x="392" y="66" key="SettingsEditor" timestamp="1584030852412">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state x="392" y="66" key="SettingsEditor/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584030852412" />
+    <state x="608" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1584027600272">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state x="608" y="315" key="com.intellij.ide.util.TipDialog/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584027600272" />
+    <state x="710" y="155" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584026147746">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state x="710" y="155" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584026147746" />
+    <state x="568" y="221" key="run.anything.popup" timestamp="1584029104802">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state x="568" y="221" key="run.anything.popup/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584029104802" />
+    <state x="575" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1584026167586">
+      <screen x="0" y="0" width="1824" height="986" />
+    </state>
+    <state x="575" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584026167586" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Chatserver$Test.ic" NAME="Test Coverage Results" MODIFIED="1584031127535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
