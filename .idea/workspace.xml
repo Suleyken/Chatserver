@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fb9a74c-43c7-48f1-b186-1a5a9ca95ee9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3fb9a74c-43c7-48f1-b186-1a5a9ca95ee9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +95,7 @@
       <workItem from="1584272645875" duration="370000" />
       <workItem from="1584710664603" duration="2515000" />
       <workItem from="1584812550802" duration="28000" />
-      <workItem from="1584812734257" duration="376000" />
+      <workItem from="1584812734257" duration="429000" />
     </task>
     <task id="LOCAL-00001" summary="Klassen umgeschrieben">
       <created>1584032835925</created>
@@ -109,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584032835925</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Es funktioniert irgendwie. &#10;Aber nicht mit BlueJ.">
+      <created>1584813138119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584813138119</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Klassen umgeschrieben" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klassen umgeschrieben" />
+    <MESSAGE value="Es funktioniert irgendwie. &#10;Aber nicht mit BlueJ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Es funktioniert irgendwie. &#10;Aber nicht mit BlueJ." />
   </component>
   <component name="WindowStateProjectService">
     <state x="629" y="162" key="#Client" timestamp="1584809230673">
@@ -148,30 +151,30 @@
       <screen x="0" y="0" width="1824" height="986" />
     </state>
     <state x="642" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584024679312" />
-    <state x="432" y="84" key="CommitChangelistDialog2" timestamp="1584032834646">
+    <state x="432" y="84" key="CommitChangelistDialog2" timestamp="1584813136974">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state x="432" y="84" key="CommitChangelistDialog2/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032834646" />
+    <state x="432" y="84" key="CommitChangelistDialog2/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584813136974" />
     <state x="618" y="233" key="FileChooserDialogImpl" timestamp="1584025205863">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
     <state x="618" y="233" key="FileChooserDialogImpl/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584025205863" />
-    <state width="1780" height="198" key="GridCell.Tab.0.bottom" timestamp="1584812812958">
+    <state width="1780" height="198" key="GridCell.Tab.0.bottom" timestamp="1584813163565">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state width="1780" height="198" key="GridCell.Tab.0.bottom/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584812812958" />
-    <state width="1780" height="198" key="GridCell.Tab.0.center" timestamp="1584812812957">
+    <state width="1780" height="198" key="GridCell.Tab.0.bottom/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584813163565" />
+    <state width="1780" height="198" key="GridCell.Tab.0.center" timestamp="1584813163565">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state width="1780" height="198" key="GridCell.Tab.0.center/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584812812957" />
-    <state width="1780" height="198" key="GridCell.Tab.0.left" timestamp="1584812812957">
+    <state width="1780" height="198" key="GridCell.Tab.0.center/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584813163565" />
+    <state width="1780" height="198" key="GridCell.Tab.0.left" timestamp="1584813163565">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state width="1780" height="198" key="GridCell.Tab.0.left/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584812812957" />
-    <state width="1780" height="198" key="GridCell.Tab.0.right" timestamp="1584812812958">
+    <state width="1780" height="198" key="GridCell.Tab.0.left/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584813163565" />
+    <state width="1780" height="198" key="GridCell.Tab.0.right" timestamp="1584813163565">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state width="1780" height="198" key="GridCell.Tab.0.right/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584812812958" />
+    <state width="1780" height="198" key="GridCell.Tab.0.right/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584813163565" />
     <state width="1780" height="320" key="GridCell.Tab.1.bottom" timestamp="1584810603682">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
@@ -196,10 +199,10 @@
       <screen x="0" y="0" width="1824" height="986" />
     </state>
     <state x="392" y="66" key="SettingsEditor/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584030852412" />
-    <state x="504" y="224" key="Vcs.Push.Dialog.v2" timestamp="1584032838108">
+    <state x="504" y="224" key="Vcs.Push.Dialog.v2" timestamp="1584813141364">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state x="504" y="224" key="Vcs.Push.Dialog.v2/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032838108" />
+    <state x="504" y="224" key="Vcs.Push.Dialog.v2/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584813141364" />
     <state x="608" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1584812746668">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
