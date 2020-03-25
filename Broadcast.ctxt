@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Broadcast
+comment1.params=port
+comment1.target=Broadcast(int)
+comment2.params=string
+comment2.target=void\ empfangeString(java.lang.String)
+comment3.params=
+comment3.target=void\ verbindungBeendet()
+comment4.params=i
+comment4.target=void\ empfangeInt(int)
+comment5.params=b
+comment5.target=void\ empfangeByte(byte)
+comment6.params=d
+comment6.target=void\ empfangeDouble(double)
+comment7.params=c
+comment7.target=void\ empfangeChar(char)
+comment8.params=b
+comment8.target=void\ empfangeBoolean(boolean)
+numComments=9

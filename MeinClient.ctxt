@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MeinClient
+comment1.params=ipAdresse\ port
+comment1.target=MeinClient(java.lang.String,\ int)
+comment2.params=nachricht
+comment2.target=void\ sendeNachrichtAnServer(java.lang.String)
+comment3.params=i
+comment3.target=void\ empfangeInt(int)
+comment4.params=string
+comment4.target=void\ empfangeString(java.lang.String)
+numComments=5
